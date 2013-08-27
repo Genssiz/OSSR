@@ -9,9 +9,10 @@ Cardoso, J. "Modeling Service Relationships for Service Networks".
 In 4th International Conference on Exploring Service Science (IESS 1.3), 
 pages 114-128, Springer, Porto, Portugal, LNBIP, Vol. 143, 2013. 
 
--- Abstract --
+http://eden.dei.uc.pt/~jcardoso/Research/Papers/CP-2013-066-IESS-Modeling-Service-Relationships.pdf
 
-The last decade has seen an increased interest in the study of networks in many fields of science.
+
+Abstract. The last decade has seen an increased interest in the study of networks in many fields of science.
 Examples are numerous, from sociology to biology, and to physical systems such as power grids.
 Nonetheless, the field of service networks has received less attention. Previous research has
 mainly tackled the modeling of single service systems and service compositions, often focusing
