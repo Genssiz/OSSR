@@ -23,4 +23,4 @@ economies operate at a global scale.
 
 ## Useful links
 
- - [Linked USDL](https://github.com/linked-usdl/usdl-core): The servcie description language Linked USDL.
+ - [Linked USDL](https://github.com/linked-usdl/usdl-core): The service description language Linked USDL.
