@@ -20,3 +20,7 @@ a computational model to represent the various types of relationships which can 
 between services systems to model service networks. This work acquires a particular importance
 since the study of service networks can bring new scientific discoveries on how service-based
 economies operate at a global scale.
+
+## Useful links
+
+ - [Linked USDL](https://github.com/linked-usdl/usdl-core): The servcie description language Linked USDL.
