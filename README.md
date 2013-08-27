@@ -1,7 +1,7 @@
 OSSR
+Open Semantic Service Relationship Model
 ====
 
-Open Semantic Service Relationship Model
 
 Information on the model can be obtained from the following paper:
 
